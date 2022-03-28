@@ -1,7 +1,8 @@
 # NAN-DETECTOR
 Detector de usuarios do bug nan no 'Place' "Roleplay Brasil", presente na plataforma roblox.
 
-esse codigo foi desenvolvido para auxiliar a equipe do Roleplay Brasil em combater o bug NAN.
+esse codigo foi desenvolvido para auxiliar a equipe do Roleplay Brasil em combater o bug NAN;
+para executalo, use o codigo NAN-detector.lua
 
 # REQUISITOS
 Executor Lua Externo ou Interno
