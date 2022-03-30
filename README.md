@@ -1,11 +1,13 @@
 # NAN-DETECTOR
 Detector de usuarios do bug nan no 'Place' "Roleplay Brasil", presente na plataforma roblox.
-
+<br/>
 esse codigo foi desenvolvido para auxiliar a equipe do Roleplay Brasil em combater o bug NAN;
+<br/>
 para executalo, use o codigo NAN_detector.lua
 
 # REQUISITOS
 Executor Lua Externo ou Interno
+<br/>
 Rlua level 4+ (significa que caso use executores externos é necessario esse nivel ou superior na biblioteca lua)(Rlua = Roblox Lua)
 
 # EXECUTORES EXTERNOS TESTADOS
@@ -13,14 +15,18 @@ Synpase X ✅
 
 ## EXECUTORES EXTERNOS SUPORTADOS
 KRNL ✅
+<br/>
 JJsploit ✅
+<br/>
 Kiwi X ✅
+<br/>
 Sirhurt ✅
 
 
 
 # RECOMENDAÇÕES
 1 - Pode-se adiciona-lo a um gui aos staffs  para facilitar o combate...
+<br/>
 
 2 - Comando espefico no Painel admin para resetar o Stats "Dinheiro", presente no seguinte PATH (Game.Players[PlayerEspecifico].Dinheiro.Value)
 
